@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.0.9
+* Made suggest widget border more visible
+
 ## 0.0.8
 * Made hover widget border more visible
 
