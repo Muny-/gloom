@@ -1,22 +1,25 @@
 # CHANGELOG
 
+## 0.0.8
+* Made hover widget border more visible
+
 ## 0.0.7
-Made ultra-dark
+* Made ultra-dark
 
 ## 0.0.6
-Made line highlight darker
+* Made line highlight darker
 
 ## 0.0.5
-Made even darker
+* Made even darker
 
 ## 0.0.4
-Updated changelog
+* Updated changelog
 
 ## 0.0.3
-Changed icon background
+* Changed icon background
 
 ## 0.0.2
-Made sidebar bg darker
+* Made sidebar bg darker
 
 ## 0.0.1
 * Initial release
