@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.3
+* Changed panel background color
+
 ## 0.1.2
 * Made lighter
 
