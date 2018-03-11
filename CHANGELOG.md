@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.2
+* Made lighter
+
 ## 0.1.1
 * New screenshot, updated readme
 ## 0.1.0
