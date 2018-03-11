@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.0
+* Fixed too much hot pink
+
 ## 0.0.9
 * Made suggest widget border more visible
 
