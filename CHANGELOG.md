@@ -1,5 +1,7 @@
 # CHANGELOG
 
+## 0.1.1
+* New screenshot, updated readme
 ## 0.1.0
 * Fixed too much hot pink
 
